@@ -30,12 +30,14 @@ Membuat tabel `data_barang` dengan field:
 - harga_jual
 - stok
 
-**Screenshot:** Database dan tabel data_barang.
+<img width="959" height="510" alt="Screenshot 2026-11-22 002048" src="https://github.com/user-attachments/assets/93ba37c5-71f9-46b7-bb32-7c7a4a454318" />
+
 
 ### 4. Membuat Koneksi Database
 Membuat file `koneksi.php` untuk menghubungkan PHP dengan database MySQL.
 
-**Screenshot:** Kode koneksi dan hasil pengujian koneksi.
+<img width="959" height="101" alt="Screenshot 2026-11-22 001730" src="https://github.com/user-attachments/assets/f9728045-0e36-4755-854c-c7ada8a04c41" />
+
 
 ### 5. Membuat Halaman Data Barang (Read)
 Membuat file `index.php` untuk menampilkan seluruh data barang dari database.
